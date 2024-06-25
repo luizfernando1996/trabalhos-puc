@@ -1,0 +1,100 @@
+#formularioInteiro3 {
+padding:3px;
+	margin-left: 180px;
+	margin-top: 40px;
+	width:700px;
+	background: #4f4f4f;
+	/* cor escura para o fundo do formulário */
+	font: 20px arial, verdana, helvetica, sans-serif;
+	/* o tamanho e o tipo da fonte no formulário */
+	border-top: 8px solid #cfcfcf;
+	/* borda superior de 8px solida na cor cinza clara 
+no formulário */
+	border-left: 8px solid #cfcfcf;
+	/* a borda esquerda do formulário */
+	border-right: 8px solid #696969;
+	/* a borda direita do formulário */
+	border-bottom: 8px solid #696969; * a borda inferior do formulário */
+	border-collapse : collapse;
+	/* retira as bordas duplas nas células da tabela */
+	color: #ff9900; /* a cor laranja para as letras */
+}
+/*<!--Nome muito grande da bug-->*/
+#formularioInter {
+padding:3px;
+	margin-left: 180px;
+	margin-top: 0px;
+	width:700px;
+	background: #4f4f4f;
+	/* cor escura para o fundo do formulário */
+	font: 20px arial, verdana, helvetica, sans-serif;
+	/* o tamanho e o tipo da fonte no formulário */
+	border-top: 8px solid #cfcfcf;
+	/* borda superior de 8px solida na cor cinza clara 
+no formulário */
+	border-left: 8px solid #cfcfcf;
+	/* a borda esquerda do formulário */
+	border-right: 8px solid #696969;
+	/* a borda direita do formulário */
+	border-bottom: 8px solid #696969; * a borda inferior do formulário */
+	border-collapse : collapse;
+	/* retira as bordas duplas nas células da tabela */
+	color: #ff9900; /* a cor laranja para as letras */
+}
+#formPartida {
+padding:3px;
+	margin-left: 0px;
+	margin-top: 90px;
+	width:700px;
+	background: #4f4f4f;
+	/* cor escura para o fundo do formulário */
+	font: 20px arial, verdana, helvetica, sans-serif;
+	/* o tamanho e o tipo da fonte no formulário */
+	border-top: 8px solid #cfcfcf;
+	/* borda superior de 8px solida na cor cinza clara 
+no formulário */
+	border-left: 8px solid #cfcfcf;
+	/* a borda esquerda do formulário */
+	border-right: 8px solid #696969;
+	/* a borda direita do formulário */
+	border-bottom: 8px solid #696969; * a borda inferior do formulário */
+	border-collapse : collapse;
+	/* retira as bordas duplas nas células da tabela */
+	color: #ff9900; /* a cor laranja para as letras */
+}
+#formCompeticao {
+padding:3px;
+	margin-left: 0px;
+	margin-top: 40px;
+	width:700px;
+	background: #4f4f4f;
+	/* cor escura para o fundo do formulário */
+	font: 20px arial, verdana, helvetica, sans-serif;
+	/* o tamanho e o tipo da fonte no formulário */
+	border-top: 8px solid #cfcfcf;
+	/* borda superior de 8px solida na cor cinza clara 
+no formulário */
+	border-left: 8px solid #cfcfcf;
+	/* a borda esquerda do formulário */
+	border-right: 8px solid #696969;
+	/* a borda direita do formulário */
+	border-bottom: 8px solid #696969; * a borda inferior do formulário */
+	border-collapse : collapse;
+	/* retira as bordas duplas nas células da tabela */
+	color: #ff9900; /* a cor laranja para as letras */
+}
+#tiloDoForm {
+	width:715px;
+	margin-left: 180px;
+	margin-top: 50px;
+	background: #000000;
+	/* a cor preta para o fundo do título */
+	padding: 3px;
+	/* um afastamento de 3px */
+	font: bold 30px arial, verdana, helvetica, sans-serif;
+	/* letras em negrito com 15px e familia arial, verd....*/
+	border-bottom: 1px solid #ff9900;
+	/* uma borda inferior solida de 1px na cor laranja */
+	color: #ff9900;
+	text-align: center;
+}
