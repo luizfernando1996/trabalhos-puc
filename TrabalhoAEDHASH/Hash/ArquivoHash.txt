@@ -1,0 +1,26 @@
+Minas Gerais;Sudeste;Belo Horizonte;853
+São Paulo;Sudeste;SãoPaulo;645
+Rio de Janeiro;Sudeste;Rio de Janeiro;92
+Espiríto Santo;Sudeste;Vitória;78
+Rio Grande do Sul;Sul;Porto Alegre;479
+Paraná;Sul;Curitiba;399
+Santa Catarina;Sul;Florianópolis;295
+Bahia;Nordeste;Salvador;417
+Piauí;Nordeste;Teresina;224
+Paraíba;Nordeste;João Pessoa;223
+Maranhão;Nordeste;São Luis;217
+Perbambuco;Nordeste;Recife;185
+Ceará;Nordeste;Fortaleza;184
+Rio Grande do Norte;Nordeste;Natal;167
+Alagoas;Nordeste;Maceió;102
+Sergipe;Nordeste;Aracaju;75
+Pará;Nordeste;Belém;144
+Tocantis;Norte;Palmas;139
+Amazonas;Norte;Manaus;62
+Rondônia;Norte;Porto Velho;52
+Acre;Norte;Rio Branco;22
+Amapá;Norte;Macapá;16
+Roraima;Norte;Boa Vista;15
+Goiás;Centro-Oeste;Goiania;246
+Mato Grosso;Centro-Oeste;Cuiabá;141
+Mato Grosso do Sul;Centro-Oeste;Campo Grande;79
